@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ALL>
+    
+    <AD>
+        <PRODUCT>
+            <PRICE>4230.00 BYN</PRICE>
+            <NAME>Акустическая система Dynaudio Excite X34</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>397.97 BYN</PRICE>
+            <NAME>Наушники Marshall Major IV</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>264.00 BYN</PRICE>
+            <NAME>Наушники JBL Tune 660NC/NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>509.46 BYN</PRICE>
+            <NAME>Микрофон HyperX QuadCast S</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>1053.74 BYN</PRICE>
+            <NAME>Микрофон Rode NT1-Kit</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>533.73 BYN</PRICE>
+            <NAME>Звуковая карта Creative Sound BlasterX AE-5 Plus</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>1061.14 BYN</PRICE>
+            <NAME>Звуковая карта Creative Sound Blaster X5</NAME>
+        </PRODUCT>
+    </AD>
+
+    <VD>
+        <PRODUCT>
+            <PRICE>8760.00 BYN</PRICE>
+            <NAME>Беззеркальный фотоаппарат Canon EOS R Kit 24-105mm + адаптер крепления EF-EOS R</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>13000.00 BYN</PRICE>
+            <NAME>Видеокамера Canon EOS C200</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>7900.00 BYN</PRICE>
+            <NAME>Видеокамера Blackmagic Pocket Cinema Camera 6K G2</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>5294.38 BYN</PRICE>
+            <NAME>Видеодомофон Dahua DHI-ASI7213X-V1-T1</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>115.80 BYN</PRICE>
+            <NAME>Цифровая фоторамка Digma PF-733</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>202.70 BYN</PRICE>
+            <NAME>Экшн-камера Digma DiCam 850</NAME>
+        </PRODUCT>
+        <PRODUCT>
+            <PRICE>323.12 BYN</PRICE>
+            <NAME>Ip-камера HiWatch DS-I450L (4 мм)</NAME>
+        </PRODUCT>
+    </VD>
+</ALL>
